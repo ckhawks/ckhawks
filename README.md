@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [stellaric.pw](stellaric.pw)
+
+![](https://komarev.com/ghpvc/?username=ckhawks&color=red&style=flat-square&label=Views)
