@@ -18,6 +18,6 @@ I'm a versatile creator primarily focused on design and development.
 
 Check out my website! [stellaric.pw](stellaric.pw)
 
-_Unfortunately, a lot of my bigger or more fleshed out projects are in private repos as the work was done for outside organizations or projects. To employers: I'd be happy to show them off on request!_
+_Unfortunately, a lot of my bigger / more fleshed out projects are in private repos as the work was done for outside organizations or projects. To employers: I'd be happy to show them off on request!_
 
 ![](https://komarev.com/ghpvc/?username=ckhawks&color=red&style=flat-square&label=Views)
