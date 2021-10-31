@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a versatile creator primarily focused on design and development.
+I'm a versatile creator primarily focused on design and development. 
 
 Check out my website! [stellaric.pw](stellaric.pw)
+
+Unfortunately, a lot of my bigger or more fleshed out projects are in private repos as the work was done for outside organizations or projects. To employers: I'd be happy to show them off on request!
 
 ![](https://komarev.com/ghpvc/?username=ckhawks&color=red&style=flat-square&label=Views)
