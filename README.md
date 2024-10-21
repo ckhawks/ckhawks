@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 I'm a versatile creator primarily focused on design and development. 
 
-Check out my website! [stellaric.pw](stellaric.pw)
+Check out my website! [stellaric.pw](https://stellaric.pw/)
 
 _Unfortunately, a lot of my bigger / more fleshed out projects are in private repos as the work was done for outside organizations or projects. To employers: I'd be happy to show them off on request!_
 
